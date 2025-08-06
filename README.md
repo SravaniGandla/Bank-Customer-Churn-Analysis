@@ -31,7 +31,7 @@ Dataset Size: 10,000 customers' data spanning 4 years.
 - Step 6 :Handling the text values and removed special characters in name.
 - Step 7 :Handled null values.
 
-https://github.com/SravaniGandla/Bank-Customer-Churn-Analysis/issues/1#issue-3296548868
+https://github.com/SravaniGandla/Bank-Customer-Churn-Analysis/issues/1#issue-3296548868 - Snapshot of Report
 
 https://github.com/SravaniGandla/Bank-Customer-Churn-Analysis/issues/2#issue-3296569001
 
